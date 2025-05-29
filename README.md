@@ -1,7 +1,7 @@
-# MikeZin
+# Mike-Zin
 
 # 💫 About Me:
-Iai pai...<br>Meu nom é Cauã de Oliveira Pereira, estou cursando Desenvolvimento de Sistemas no SENAI,<br>3° Ano DST(B) do Ensiono Médio
+Iai pai...<br>Meu nom é Cauã de Oliveira Pereira, estou cursando Desenvolvimento de Sistemas no SENAI,<br>3° Ano DST(B) do Ensino Médio
 
 
 ## 🌐 Socials:
